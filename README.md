@@ -24,3 +24,6 @@ Fatmore App.
 # Tabs Screen
 <img src="assets/images/screenshot/tabs.jpg"> 
 
+# WalkThrough
+*https://youtu.be/8P8HXw8NWuY?si=MwJqy-NHodBfkZuS
+
